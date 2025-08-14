@@ -8,7 +8,7 @@ Interactive Excel dashboard analyzing coffee shop sales trends with actionable b
 This project analyzes retail coffee shop sales and builds an interactive dashboard to uncover trends by **month**, **day of week**, **hour**, **product category**, and **top products**. It includes clear recommendations to improve operations across store locations.
 
 <p align="center">
-  <img src="assets/hero_dashboard.png" alt="Dashboard hero screenshot" width="80%">
+  <img src="coffe_sales/assets/hero_dashboard.png" alt="Dashboard hero screenshot" width="80%">
 </p>
 
 ---
