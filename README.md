@@ -19,8 +19,8 @@ This project analyzes retail coffee shop sales and builds an interactive dashboa
 ├── data/
 │ └── Coffee_Shop_Sales.xlsx
 ├── docs/
-│ ├── Coffee_shop_questions.docx
-│ └── Maven_Roasters_Dashboard_Analysis.docx
+│ ├── Coffee_shop_questions.pdf
+│ └── Maven_Roasters_Dashboard_Analysis.pdf
 ├── assets/
 │ ├── hero_dashboard.png
 │ ├── astoria_dashboard.png
@@ -34,8 +34,8 @@ This project analyzes retail coffee shop sales and builds an interactive dashboa
 ## 🎯 Objectives
 
 1. **Prepare the data** — add Revenue, Month, Day of Week, and Hour columns for analysis.
-2. **Explore with PivotTables** — analyze revenue by month; transactions by day/week and hour; category mix; and Top 15 products.
-3. **Build a dashboard** — connect slicers (e.g., Store Location), add PivotCharts, and polish for presentation.
+2. **Explore with PivotTables** — analyze revenue by mont. Transactions by day/week and hour. Category mix. And Top 15 products.
+3. **Build a dashboard** — connect slicers (Store Location), add PivotCharts, and polish for presentation.
 4. **Deliver insights & recommendations** — operational, menu, and marketing actions.
 
 ---
@@ -49,12 +49,12 @@ This project analyzes retail coffee shop sales and builds an interactive dashboa
 
 ## 🔎 Key Insights (Summary)
 
-- **Monthly revenue** rises steadily from **January → June** (over ~100% increase across locations).
+- **Monthly revenue** rises steadily from **January to June** (over 100% increase across locations).
 - **Peak trading** is **morning (9–11 AM)**; **weekends underperform** vs. weekdays.
 - **Coffee** is the top category; **Tea & Hot Chocolate** also contribute meaningfully.
 - **Top products** include **Barista Espresso**, **Chai Tea**, and **Hot Chocolate** across stores.
 
-> See `docs/Maven_Roasters_Dashboard_Analysis.docx` for location-by-location detail.
+> See `docs/Maven_Roasters_Dashboard_Analysis.pdf` for location-by-location detail.
 
 ---
 
@@ -62,9 +62,9 @@ This project analyzes retail coffee shop sales and builds an interactive dashboa
 
 - **Afternoon “Happy Hour” (2–5 PM)** to lift post-lunch dips.
 - **Weekend promos** (family bundles, brunch sets, remote-worker specials) to improve Sat/Sun traffic.
-- **Menu optimization** — focus on high-margin espresso; rationalize low-performers (e.g., sugar-free syrups/packaged items).
+- **Menu optimization** — focus on high-margin espresso. Rationalize low-performers (sugar-free syrups/packaged items).
 - **Loyalty program** — points, referrals, and birthday perks.
-- **Smart staffing** — heavier coverage in morning rush; leaner teams on slow periods.
+- **Smart staffing** — heavier coverage in morning rush. Leaner teams on slow periods.
 
 ---
 
